@@ -1,0 +1,2 @@
+a = math.random(1,99)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, workspace.SpawnLocations:GetChildren()[a].TreasureChest, 0)
